@@ -1,0 +1,9 @@
+---
+layout: post
+title: Genggam Hangat (?)
+comments: True
+---
+
+Untuk kau lelaki yang tangannya sedang kugenggam. Tak lebih 24 jam kebersamaan kita taruh di kedua tangan, kita kantongi di perjalanan, kita peluk saat kesepian, kita tangisi dalam kesedihan. Kau menjadi punggung tempatku menulis berbagai cerita sekarang. Di dada penuh kehangatan itu, tersimpan mesin penghapus rasa sakit. Disana luka terkubur dalam nyaman yang tak berisik. Untuk kau lelaki yang tangannya sedang kugenggam, pernahkah kau berpikir bahwa semesta adalah labirin kurang ajar membuat segala rindu tersesat? Pernahkah kau berpikir tuan, bahwa kaulah titik akhir atas segala rasa yang kucari? Pelukmu mengandung kompas. Padanya aku tak kehilangan arah. Padanya aku tahu bahwa sejauh apapun aku mencari, pulang masih kepadamu. Kepada pelukmu yang esa, aku bertekuk lutut. Untuk kau lelaki yang tangannya sedang kugenggam, beri tahu aku jika sabarmu hampir menyentuh dasar. Agar aku tahu mengisi ulang dengan cara yang kita berdua mengerti. Agar segala pertengkaran dan sebal hanyalah lelucon-lelucon tak lucu yang kita tertawakan di masa depan. Untuk kau lelaki yang tangannya sedang kugenggam. Tahukah kau bahwa dalam sendiri aku sering mendoakanmu dalam diam. Berbisik pada rintik dan derai saat hujan menyembuhkan kemarau. Aku mendoakan terbaikmu. Kau dicintai dengan terlampau banyak, lantas aku tinggal melengkapi bagian yang kurang saja. Untuk kau lelaki yang tangannya sedang kugenggam, terimakasih sudah melukis bahagia untukku, terlebih untuk kecup yang tak teduga. Untuk kau lelaki yang tangannya sedang kugenggam. Jangan pernah lepaskan genggam ini saat aku menyebalkan. Jangan lepaskan genggam ini saat aku tak menyenangkan. Karena kau tahu, genggam erat ini adalah tanda bahwa bersama adalah kebahagiaan yang tanpa nama.
+
+Okt "22

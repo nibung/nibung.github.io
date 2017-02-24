@@ -4,7 +4,7 @@ title: Siapa Sakit
 comments: True
 ---
 
-Aku tak menyuruhku berpikir bahwa akulah yang paling menderita saat ini. Tidak, kita sama-sama sedang sakit.
+Aku tak menyuruhmu berpikir bahwa akulah yang paling menderita saat ini. Tidak, kita sama-sama sedang sakit.
 
 Malah aku selalu berpikir, kamulah yang saat ini lebih menderita, karena aku, karena lakuku. Manis.
 

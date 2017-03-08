@@ -4,6 +4,6 @@ title: Pada yang Sakit
 comments: True
 ---
 
-aku patah hati manis  
+aku patah hati, manis  
 
 Log~

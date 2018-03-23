@@ -17,7 +17,7 @@ menunggu hujan, sayang.
 
 Sebentar lagi aku pulang.
 
-~~diujung tahun.
+~diujung tahun.
 
 ku titip rindu pada langit yang kau tatap.  
 kita menata langit yg sama.

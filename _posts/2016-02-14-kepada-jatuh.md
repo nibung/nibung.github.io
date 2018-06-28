@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kepada Jatuh
-comments: True
 ---
 
 Bisa kulihat pohon-pohon pinus yang begitu cepat terlewati di belakang sosok mas kae, seakan-akan pohon-pohon itu adalah masalah yang terjadi di antara kami. Jika melihatnya satu persatu, tentu saja terlihat banyak dan perjalanan akan terasa lebih jauh lagi; karena hanya terfokus pada masing-masing pohon, dan bukan tujuan kami sebenarnya. Namun, semakin cepat dan semakin lama, pohon-pohon yang ada bahkan tak terlihat lagi.

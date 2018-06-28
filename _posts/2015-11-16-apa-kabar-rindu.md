@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Apa Kabar Rindu
-comments: True
 ---
 
 Apa yang menyenangkan dalam jarak seperti ini? Ada rindu diantara ruas  

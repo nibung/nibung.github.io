@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Berapa layar ?
-comments: True
 ---
 
 Kau ialah pagi pada malam bulan kesepuluh, yang kupikir telah tandas pada dingin cangkir tehku yang berusia. Padamu, kusaksikan hijau di lahan gersang –menjelma tawa dan nyanyian ayat-ayatNya. Seandainya bisa, kulipat dan kusimpan tatap mata di kali pertama tatapan penuh makna sepanjang ingin Tuhan; namun, kapalmu kerap berlayar sebelum matahari kupeluk dalam pangkuan, membuatku mencarimu dalam jarum jam atau isi kepala. Maka kubiarkan segala yang kau tuju memilikimu. Dan aku hanya menikmati layarmu terkembang semakin menjauh.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Menuju Peluk
-comments: True
 ---
 
 Hari keenam  

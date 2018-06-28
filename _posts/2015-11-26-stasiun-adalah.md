@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stasiun adalah
-comments: True
 ---
 
 Stasiun adalah si bisu yang menjadi saksi banyak kisah.  

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Awal Tahun
-comments: True
 ---
 
 Hai tuan,

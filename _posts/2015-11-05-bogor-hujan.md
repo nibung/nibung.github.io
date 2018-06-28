@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bogor - Hujan
-comments: True
 ---
 
 Hujan menyambutku dengan segala kesombongannya, rintik-rintiknya  berlomba memelukku, seperti kau menjamahku tempo hari, tapi tak hangat  seperti tubuhmu, manis.

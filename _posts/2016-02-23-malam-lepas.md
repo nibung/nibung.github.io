@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Malam Lepas
-comments: True
 ---
 
 Adakalanya kau akan melepaskan,  

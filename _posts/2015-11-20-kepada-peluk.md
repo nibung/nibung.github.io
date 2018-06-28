@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kepada Peluk
-comments: True
 ---
 
 Kepada peluk,  

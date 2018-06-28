@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Menguatkan
-comments: True
 ---
 
 Adakalanya kita dibawah, dibatas putus asa pada usaha,sepertinya juga putar roda-roda cinta sayang. Aku butuh pelukmu kini manis.

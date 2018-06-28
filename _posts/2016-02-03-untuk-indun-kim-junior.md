@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Untuk Indun Kim Junior
-comments: True
 ---
 
 Untuk Indun-nya Kumara, Nismara, Nitisara

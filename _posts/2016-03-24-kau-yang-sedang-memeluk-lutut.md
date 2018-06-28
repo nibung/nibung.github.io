@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kau yang sedang memeluk lutut
-comments: True
 ---
 
 Kamis menuju jumat, pada jarak yang tak ingin ku ukur, dan biarlah rindu-rindu menyerpih, menjadi getah pait sebelum semu. Persimpangan persimpangan kian ruwet, aku kau kita terlalu banyak pilihan, semua pilihan sulit. Kembali menghamba pada egoisme diri. Dan pada pucak kebimbangan, kau memilih tidak melangkah.

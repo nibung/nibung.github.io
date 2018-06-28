@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Peramu Rindu
-comments: True
 ---
 
 Hi, tuan. Maaf untuk kebodohanku yang telah terbuai ego, aku tak tahu apa yang sedang kupikirkan sekarang, aku hanya butuh diam sesaat, butuh sedikit perenungan atas apa yang telah terjadi diantara kita, bukannya aku mengabaikanmu tapi lebih baik diam seperti ini dari pada aku harus menyerangmu dengan berbagai pertanyaan yang sama.

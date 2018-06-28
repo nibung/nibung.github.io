@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hai, Tuan yang Belainya Kurindu
-comments: True
 ---
 
 Hai, Tuan yang belainya kurindu.  

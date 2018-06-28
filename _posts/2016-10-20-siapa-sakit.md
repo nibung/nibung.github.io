@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Siapa Sakit
-comments: True
 ---
 
 Aku tak menyuruhmu berpikir bahwa akulah yang paling menderita saat ini. Tidak, kita sama-sama sedang sakit.

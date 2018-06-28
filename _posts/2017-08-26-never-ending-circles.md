@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Never Ending Circles
-comments: True
 ---
 
 Throw me  

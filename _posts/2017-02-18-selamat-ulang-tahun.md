@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Selamat Ulang Tahun
-comments: True
 ---
 
 Selamat bertambah resah tuan,  

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sakit dalam Tawa
-comments: True
 ---
 
 Ajarkan aku menjadi naif kanda, senaif dirimu yang masih bisa tertawa sambil memeluk ku, senaif kebahagian di alam kita berdua.  

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kado Tuhan
-comments: True
 ---
 
 Saat kau bangun nanti, aku mau kamu bahagia.  

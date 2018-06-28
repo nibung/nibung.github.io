@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Senja Terimakasih
-comments: True
 ---
 
 Awalnya aku pernah begitu jatuh, lupa cara untuk bangkit dan berjalan lagi. Pernah begitu terpuruk dalam kesedihan-kesedihan atas luka dari indahnya setia yang aku jaga rapat-rapat.

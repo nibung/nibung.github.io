@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kamar Putih
-comments: True
 ---
 
 Tiap orang pasti punya kenangan tak ingin diingat, tempat yg membuatmu gemetar. Jangankan berkunjung, mendekat saja akan takut.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Yang Pertama
-comments: True
 ---
 
 Deruan klakson angkot, sepeda motor, kopaja bahkan mobil kaum elit mengiringi langkahku gontai menuju stasiun kalibata.  

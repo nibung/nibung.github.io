@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Surat Pembuka
-comments: True
 ---
 
 Piii, kamu dimana...

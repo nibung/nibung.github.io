@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rabu Dini Hari
-comments: True
 ---
 
 Tak ingin kutulis banyak. Waktuku mendesak. Rabu pagi datang terlampau  cepat karena semalaman segala rupa tentangmu begitu menyibukkan. Aku tak  karuan. Inilah aku, sendirian duduk di teras rumah. Menatap iri para  embun yang bercinta dengan daun. Menamparku yang cemburu karena aku dan  kau seharusnya bercinta sampai penuh peluh.

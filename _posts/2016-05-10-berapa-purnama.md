@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Berapa Purnama
-comments: True
 ---
 
 mengulang-ulang kalender, menganulir waktu  

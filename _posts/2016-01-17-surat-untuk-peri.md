@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Surat untuk Peri
-comments: True
 ---
 
 Ah, aku lupa kali terakhir berkirim surat,  

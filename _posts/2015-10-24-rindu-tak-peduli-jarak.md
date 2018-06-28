@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rindu Tak Peduli Jarak
-comments: True
 ---
 
 Katamu jarak kota tak sampai 500 mil, namun.

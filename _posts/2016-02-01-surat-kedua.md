@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Surat Kedua
-comments: True
 ---
 
 Ada banyak cerita lain tentangmu yang kamu bagi, tentang kau yang suka menikmati novel, menulis dan pada titik ini kita menemukan kesamaan. Terimakasih telah membaca buku pertamaku, sajak-sajak jaman merah jambu, sajak 8 tahun silam. Terus menulis sayang. Hanya dengan menulis, kenangan kita takan pudar.

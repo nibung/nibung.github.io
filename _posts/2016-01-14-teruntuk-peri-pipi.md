@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Teruntuk peri pipi
-comments: True
 ---
 
 Hai, maaf,  

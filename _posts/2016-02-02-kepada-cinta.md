@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kepada Cinta
-comments: True
 ---
 
 Kepada cintamu, cinta kita yang sama-sama diakui. bahwa iya besar dan penuh sayang.

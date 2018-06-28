@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jalan Pulang
-comments: True
 ---
 
 Dulu rasanya sulit sekali untuk menciummu sesering ini. Sprei tempat tidur kusut. Tidak, kita tidak bercinta. Rasanya romantisme tidak terbawa arus nafsu saat gelora akan kebersamaan berhenti pada cium dan peluk.

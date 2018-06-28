@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kau adalah Seluruh
-comments: True
 ---
 
 Hari ini hati kembali menghangat walau cuaca sedang dingin-dinginnya.  Ada kebersamaan yang memercik memberi syukur yang dibiaskan kebahagiaan.  Pagi ini tak ada tanganmu yang kugenggam atau kecupmu yang mendarat di  kening. Tapi mengetahui kalau kita masih saling memiliki adalah satu  dari segala indah yang terlanjur lahir di bumi.

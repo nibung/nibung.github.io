@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pada Rindu
-comments: True
 ---
 
 Pagi 29 ramadhan,

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: yang Kugenggam Jemarinya
-comments: True
 ---
 
 Barangkali, benar.  

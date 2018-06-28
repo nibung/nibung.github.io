@@ -1,7 +1,6 @@
 ---
 layout: post
 title: pada Jatuh Cinta
-comments: True
 ---
 
 Aku sedang mengingat-ingat mengapa pada akhirnya kita bertukar rasa. Malam ini aku sedang dibungkus hangat. Mungkin mereka yg tak percaya cinta akan menudingku berlebihan. Tapi sayang, kali ini aku takkan lagi bohong. Aku takkan lagi menjunjung tinggi gengsi yg selama ini selalu kubiarkan tumbuh dan bersemi.

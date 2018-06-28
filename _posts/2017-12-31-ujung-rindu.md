@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ujung Rindu
-comments: True
 ---
 
 Ada orang yg menghabiskan waktu sunyi dengan sesukanya,  

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mengingat
-comments: True
 ---
 
 kadang kita butuh teman diskusi lain,teman dari antah berantah.  

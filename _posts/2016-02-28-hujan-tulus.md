@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hujan Tulus
-comments: True
 ---
 
 Kapan kita bermain hujan lagi sayang..  

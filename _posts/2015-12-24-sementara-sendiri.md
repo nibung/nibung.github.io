@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sementara Sendiri
-comments: True
 ---
 
 Kau memintaku menyanyikan ini untukmu,

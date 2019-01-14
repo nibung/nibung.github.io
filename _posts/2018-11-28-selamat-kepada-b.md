@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selamat ulang tahun kepada B
+title: Selamat Ulang Tahun kepada B
 ---
 
 Maaf ucapanku terlambat. Seusai berkirim kata.  
